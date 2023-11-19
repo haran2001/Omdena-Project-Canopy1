@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "streamlit-template",
+			"path": "."
+		},
+		{
+			"name": "output",
+			"path": "../Omdena/canopy/Omdena_project_canopy/output"
+		}
+	],
+	"settings": {}
+}
